@@ -6,6 +6,11 @@ public class Apples {
 			
 		System.out.println("Apples page");
 		System.out.println("apple");
+		
+		
+		System.out.println("--------------");
+		
+		System.out.println("------Test1-------");
 	}
 
 }
