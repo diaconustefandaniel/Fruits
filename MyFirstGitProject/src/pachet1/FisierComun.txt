@@ -3,3 +3,5 @@ Codul initial al lui Ion
 
 
 Primul commit a lui Vasile
+
+Aici eu, Ion adaug cod. Ar trebui sa am conflict cu Vasile!(pentru ca si el a adaugat si a facut push inaintea mea)
