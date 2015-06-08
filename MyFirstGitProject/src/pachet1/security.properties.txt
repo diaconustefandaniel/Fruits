@@ -1,3 +1,11 @@
 global.save=save(Ion)
 global.delete=delete(Ion)
 global.merge=mergte(Ion)
+
+
+local.stuff=stuff Local
+
+public static void main(String argv[])
+{
+	return "retrievedUsers";
+}
