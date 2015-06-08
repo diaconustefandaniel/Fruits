@@ -1,7 +1,10 @@
 global.save=save(Ion)
 global.delete=delete(Ion)
 global.merge=mergte(Ion)
+global.merge=merge(Ion)
 
+sell.product=sellProduct(Vasile)
+sell.product.price=sellingPrice(Vasile)
 
 local.stuff=stuff Local
 
