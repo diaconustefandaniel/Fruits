@@ -1,0 +1,3 @@
+global.save=save(Ion)
+global.delete=delete(Ion)
+global.merge=mergte(Ion)
